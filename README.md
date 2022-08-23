@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhilDevProg
+- 👋 Hi, I’m PhilProg
 - 👀 I’m interested in Linux, Open Source, GNOME, the PineTime and mobile Linux phones.
 
 <!---
